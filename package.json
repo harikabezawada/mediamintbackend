@@ -1,0 +1,16 @@
+{
+  "name": "userdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-errors": "^1.8.0",
+    "mongodb": "^3.5.9",
+    "morgan": "^1.10.0"
+  }
+}
